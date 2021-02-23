@@ -10,7 +10,7 @@ Rumus
 
 <img src="kodenik.jpg"/>
 
-# <a href="https://github.com/bachors/nik_parse.js/tree/master/src">nik_parse.js</a>
+# <a href="https://github.com/penucuriCode/nik_parse.js/tree/main/src">nik_parse.js</a>
 Sample
 ```html
 <script type="text/javascript" src="src/nik_parse.js"></script>
